@@ -1,0 +1,7 @@
+{
+	"development" : {
+		"smtp_username" : "testUsenam",
+		"smtp_password" : "testPassword",
+		"smtp_host" : "smtp.gmail.com"
+	}
+}

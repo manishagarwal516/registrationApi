@@ -1,0 +1,4 @@
+development:
+  host: localhost
+  db_name: users
+  port: 27017
